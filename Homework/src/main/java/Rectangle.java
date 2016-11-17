@@ -1,0 +1,5 @@
+/**
+ * Прямоугольник
+ */
+public class Rectangle {
+}
