@@ -224,7 +224,6 @@ public class SplayTreeMap {
     /**
      * Node class represent each node in tree. left , right pointer.
      */
-
     public class Node {
         public int data;
         public Node left, right;
@@ -235,6 +234,4 @@ public class SplayTreeMap {
             right = null;
         }
     }
-
-
 }

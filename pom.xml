@@ -30,10 +30,10 @@
         <module>WebViewBrowser</module>
         <module>Swing</module>
         <module>javafx</module>
-        <module>MavenScrumToys</module>
         <module>SplayTree</module>
         <module>Decomposition</module>
         <module>Homework</module>
+        <module>DivisionApplet</module>
     </modules>
 
     <dependencies>
